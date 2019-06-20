@@ -1,2 +1,2 @@
 # PGM2JPG
-PGM photos to JPG photos
+a  little python program,used for PGM format img to JPG 
